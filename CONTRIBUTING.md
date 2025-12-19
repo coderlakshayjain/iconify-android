@@ -1,4 +1,4 @@
-# Contributing to UniQ Papers
+# Contributing to Iconify
 
 Welcome! We're excited that you're interested in contributing to **Iconify**. Your contributions help make this project better for everyone.
 
@@ -61,7 +61,7 @@ Open a pull request (PR) to the `dev` branch (unless you are fixing something cr
 ✅ Code of Conduct
 -----------------
 
-We expect all contributors to abide by our [Code of Conduct](https://github.com/coderlakshayjain/iconify-android/blob/main/CODE-OF-CONDUCT.md) to create a welcoming and respectful environment.
+We expect all contributors to abide by our [Code of Conduct](https://github.com/coderlakshayjain/iconify-android/blob/master/CODE-OF-CONDUCT.md) to create a welcoming and respectful environment.
 
 * * * * *
 
